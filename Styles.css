@@ -3,6 +3,14 @@ body {
   background-image: url("Megan Potter.jpg");
   text-align: center;
 }
+
+.megan-image{
+    height: 500px;
+    background-position: center;
+    beckground-size: cover;
+    position: relative;
+  }
+
 p {
   color: fuchsia;
   text-align: center;
