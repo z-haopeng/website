@@ -5,8 +5,8 @@ body {
 }
 
 .megan-image{
-    height: 500px;
-    width: auto;
+    height: 100px;
+    width: 100px;
     background-position: center;
     background-size: cover;
     position: relative;
