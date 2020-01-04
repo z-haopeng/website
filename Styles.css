@@ -1,7 +1,9 @@
 body {
   color: blue; 
+  text-align: center;
+  color: red;
 }
 p {
   color: red;
-  text-align: center;
+  text-align: left;
 }
