@@ -9,7 +9,8 @@ body {
     width: 100px;
     background-position: center;
     background-size: cover;
-    position: relative;
+    position: absolute;
+    background-color: #cccccc;
   }
 
 p {
